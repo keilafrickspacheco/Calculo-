@@ -1,1 +1,1 @@
-<h1>Calculadora feita com React Native </h1>
+<h1>Calculadora feita com React Native. </h1>
